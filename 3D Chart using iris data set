@@ -32,4 +32,4 @@ ax.w_yaxis.set_ticklabels([])
 ax.set_zlabel("Z Axis")
 ax.w_zaxis.set_ticklabels([])
 
-plt.show()
+plt.show() 
